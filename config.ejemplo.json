@@ -1,0 +1,17 @@
+{
+  "comuna": "Ñuñoa",
+  "lat": -33.447,
+  "lon": -70.583,
+  "region_dmc": "05m",
+  "zonas_dmc": ["05m_Valle_Longitudinal"],
+  "ciudad_pronostico_dmc": "Santiago Sector Oriente",
+  "estacion_dmc": "SCTB",
+  "correo": "",
+  "ida": [7, 10],
+  "vuelta": [17, 21],
+  "metro": {
+    "activo": true,
+    "lineas": ["l3"],
+    "estaciones": ["Ñuñoa", "Irarrázaval"]
+  }
+}
